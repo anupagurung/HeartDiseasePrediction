@@ -1,1 +1,2 @@
 # HeartDiseasePrediction
+I built a machine-learning model using R specifically for heart disease prediction using four potent algorithms: K-Nearest Neighbours (KNN), Decision Tree, Random Forest, and Logistic Regression. The model was trained and tested on a dataset of 1,025 labelled patients, which included both people with heart disease diagnoses and healthy individuals. I was able to attain an impressive accuracy of 89.4% using the default hyperparameters through intensive training and testing procedures, particularly with the Decision Tree method.
